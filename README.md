@@ -27,7 +27,6 @@ I developed this project to improve myself in JavaScript, HTML, CSS and calculat
 This project is developed with the followings:
 
 * [JavaScript](https://www.javascript.com)
-* [JQuery](https://jquery.com)
 * HTML
 * CSS
 
