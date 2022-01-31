@@ -103,12 +103,14 @@ function createGcdBlock() {
         myFirstList.appendChild(firstListViewItem)
         firstDiv.appendChild(myFirstList)
     }
+
     for (let i = 0; i < calculatedGcd.secondDivided.length; i++) {
         let secondListViewItem = document.createElement('li');
         secondListViewItem.innerHTML = calculatedGcd.secondDivided[i]
         mySecondList.appendChild(secondListViewItem)
         secondDiv.appendChild(mySecondList)
     }
+    
     for (let i = 0; i < calculatedGcd.divisors.length; i++) {
 
         let thirthListViewItem = document.createElement('li');
