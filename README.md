@@ -17,7 +17,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-I developed this project to improve myself in the JavaScript, HTML, and CSS. When the user enters the appropriate number, the program automatically adjusts the grid scheme and assigns random color pairs to the squares. The user is trying to find the two same colors assigned to the boxes on this page, if two different colors are opened, the opened boxes are closed again, if the two boxes are the same color, the boxes remain open in their own color. The user can see the locations of the colors by clicking on the hint button.
+I developed this project to improve myself in JavaScript, HTML, CSS and calculate the greatest common divisor in a simple and understandable way for the user. When the user enters the appropriate numbers into the inputboxes, the program automatically adjusts a scheme and calculates the greatest common divisor.
 
 <br/>
 
